@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "stock": 10,
+    "discount": null
+  },
+  {
+    "id": 2,
+    "name": "Mobile Phone",
+    "category": "Electronics",
+    "price": 25000,
+    "stock": 15,
+    "discount": null
+  },
+  {
+    "id": 3,
+    "name": "Washing Machine",
+    "category": "Home Appliances",
+    "price": 15000,
+    "stock": 5,
+    "discount": null
+  },
+{
+    "id": 4,
+    "name": "Refrigerator",
+    "category": "Home Appliances",
+    "price": 30000,
+    "stock": 8,
+    "discount": null
+  },
+  {
+    "id": 5,
+    "name": "Book - JavaScript Guide",
+    "category": "Books",
+    "price": 500,
+    "stock": 25,
+    "discount": null
+  },
+  {
+    "id": 6,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 2000,
+    "stock": 30,
+    "discount": null
+  } ]
